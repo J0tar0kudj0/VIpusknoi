@@ -1,0 +1,20 @@
+body {
+    font-family: sans-serif;
+ background-color: purple;
+ color:white; 
+ 
+}
+a{
+ color:white;
+ border: white 2px solid;
+ background-color:blueviolet;
+ border-radius:20%;
+ padding:5px;
+}
+h1{
+ text-align:center;
+ color:darkorchid;
+}
+nav{
+margin-top:5%;
+}
